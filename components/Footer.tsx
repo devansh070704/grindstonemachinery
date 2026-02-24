@@ -9,7 +9,7 @@ export const Footer: React.FC = () => {
     { name: 'Home', href: '/' },
     { name: 'About Us', href: '/about' },
     { name: 'Services', href: '/services' },
-    { name: 'Projects', href: '/projects' },
+    { name: 'Products', href: '/products' },
     { name: 'Contact', href: '/contact' },
   ];
 

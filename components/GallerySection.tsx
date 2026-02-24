@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { X, MapPin, ArrowRight, ChevronLeft, ChevronRight } from 'lucide-react';
+import { Link } from 'react-router-dom';
 
 interface GalleryProject {
   id: number;
@@ -94,15 +95,13 @@ export const GallerySection: React.FC = () => {
                 Recent <span className="text-gradient-gold">Projects</span>
               </motion.h2>
             </div>
-            <motion.a
-              variants={fadeInUp}
-              custom={2}
-              href="/products"
+            <Link
+              to="/products"
               className="inline-flex items-center gap-2 text-navy-900 font-semibold hover:text-gold-500 transition-colors group"
             >
               <span>Explore All Products</span>
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-            </motion.a>
+            </Link>
           </motion.div>
 
           {/* Masonry Grid */}

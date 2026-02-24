@@ -273,7 +273,7 @@ const ServicesPage: React.FC = () => {
                                 whileInView={{ opacity: 1, y: 0 }}
                                 viewport={{ once: true }}
                                 transition={{ delay: idx * 0.05, duration: 0.6 }}
-                                className="group bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-500"
+                                className="group bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-500 flex flex-col"
                             >
                                 <div className="aspect-[16/9] overflow-hidden">
                                     <img
@@ -282,7 +282,7 @@ const ServicesPage: React.FC = () => {
                                         className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                                     />
                                 </div>
-                                <div className="p-6 md:p-8">
+                                <div className="p-6 md:p-8 flex-1 flex flex-col">
                                     <div className="w-12 h-12 rounded-2xl bg-gold-500 flex items-center justify-center mb-6">
                                         <service.icon className="text-white w-6 h-6" />
                                     </div>
@@ -301,7 +301,7 @@ const ServicesPage: React.FC = () => {
                                     </div>
                                     <Link
                                         to="/contact"
-                                        className="inline-flex items-center justify-center gap-2 w-full py-4 bg-navy-900 text-white rounded-xl font-bold text-xs uppercase tracking-widest hover:bg-gold-500 transition-all duration-300 group/btn"
+                                        className="mt-auto inline-flex items-center justify-center gap-2 w-full py-4 bg-navy-900 text-white rounded-xl font-bold text-xs uppercase tracking-widest hover:bg-gold-500 transition-all duration-300 group/btn"
                                     >
                                         Request a Quote
                                         <ArrowRight className="w-4 h-4 group-hover/btn:translate-x-1 transition-transform" />

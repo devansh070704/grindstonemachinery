@@ -1,0 +1,470 @@
+---
+1. HYDRAULIC CYLINDRICAL GRINDING MACHINE
+
+Description:
+Hydraulic Cylindrical Grinding Machine is designed for precision OD grinding operations with smooth hydraulic table movement and controlled feed system.
+
+Features:
+
+* Smooth and Consistent Feed Rates: Infinitely variable hydraulic feed ensures better surface finish and dimensional accuracy.
+* Enhanced Control and Reduced Vibration: Hydraulic damping reduces vibration and improves precision and wheel life.
+* Increased Power and Capacity: Suitable for heavy workpieces and high material removal rates.
+
+---
+
+2. MANUAL CYLINDRICAL GRINDING MACHINE
+
+Type: Cylindrical Grinding Machine
+Grinding Material: Metal
+Grinding Wheel Diameter: 300 mm
+Max Grinding Length: 300 mm
+Max Wheel Speed: 1900 RPM
+Spindle Motor Power: 3 HP
+Max Table Travel: 300 mm
+Min Table Travel: 10 mm
+Max Table Load: 10 Kg
+Table Swivel: 4°
+Admit Between Centers: 300 mm
+
+Features:
+
+* High Precision and Fine Surface Finish
+* Suitable for Small Batch and Tool Room Jobs
+* Lower Investment and Maintenance Cost
+
+---
+
+3. CARBIDE ROD CYLINDRICAL GRINDING MACHINE
+
+Max Table Travel: 320 mm
+Max Workpiece Weight: 10 Kg
+Workbench Speed: 4 r/min
+Grinding Wheel Speed: 35 m/sec
+Workbench Rotation: 9°
+Total Motor Power: 3.16 kW
+Machine Weight: 950 Kg
+Machine Size: 1360 x 1240 x 1000 mm
+
+Features:
+
+* High Accuracy for Carbide Rod Grinding
+* Excellent Surface Finish
+* Maintains Roundness and Straightness
+
+---
+
+4. STATOR CORE GRINDING MACHINE
+
+Price: ₹68,000 per Piece
+Max Length: 300 mm
+
+Features:
+
+* High Dimensional Accuracy and Flatness
+* Smooth Surface Finish
+* Suitable for Delicate Laminated Stator Cores
+* Available in Different Models
+
+---
+
+5. UNIVERSAL CYLINDRICAL GRINDING MACHINE
+
+Price: ₹7,45,000 per Piece
+Minimum Order Quantity: 1 Piece
+
+Grinding Length: 1250 mm (Between Centers)
+Center Height: 150 mm to 500 mm
+Grinding Wheel Size: 450 x 50 x 127 mm
+Wheel Speed: 1900 / 2100 RPM
+
+Features:
+
+* Heavy Duty Hydraulic Model
+* Suitable for Submersible Pump Rotor Grinding
+* Work Head with AC Motor and VFD for Variable Speed
+
+---
+
+6. HYDRAULIC UNIVERSAL CYLINDRICAL GRINDER
+
+Price: ₹7,50,000 per Piece
+Minimum Order Quantity: 1 Piece
+
+Grinding Length: 600 mm
+Internal Grinding Attachment Available
+Spindle Diameters Available: 45 mm, 60 mm, 80 mm
+
+---
+
+7. OD ID GRINDING MACHINE
+
+Price: ₹8,98,000 per Piece
+Minimum Order Quantity: 1 Piece
+
+Max Table Travel: 500 mm
+Min Table Travel: 5 mm
+Table Swivel: 4°
+Table Speed: 5 m/min
+Between Centers: 500 mm
+Automatic Lubrication
+
+---
+
+8. CENTERLESS GRINDING MACHINE
+
+Price: ₹5,80,000 per Piece
+Minimum Order Quantity: 1 Piece
+
+Max Grinding Diameter: 100 mm
+
+Features:
+
+* Rigid and Sturdy Construction
+* Hardened Nickel Chrome Steel Spindle
+* Oil Bath Lubrication
+* Adjustable Taper Bush Bearings
+* Regulating Wheel Head Swivel ±5°
+
+---
+
+9. CNC CYLINDRICAL GRINDING MACHINE
+
+Price: ₹32,00,000 per Piece
+Spindle Speed: 500 RPM
+
+Features:
+
+* High Precision CNC Control
+* Multiple Grinding Operations (Straight, Taper, Profile)
+* Programmable and Repeatable Production
+
+---
+
+10. MANUAL CYLINDRICAL GRINDING MACHINE
+
+Price: ₹3,05,000 per Piece
+
+Swing Over Table: 200 mm
+Between Centers: 300 mm
+Max OD Grinding: 150 mm
+Wheel Size: 300 x 25 x 127 mm
+Wheel Speed: 1900 / 2100 RPM
+Work Head Speed: 20 – 300 RPM (VFD)
+
+Features:
+
+* Tool Room Precision Machine
+* Fine Feed Resolution 0.005 mm
+* Coolant Tank Capacity 100 Liters
+
+---
+
+11. EXTERNAL CYLINDRICAL GRINDING MACHINE
+
+Price: ₹8,98,000 per Piece
+Minimum Order Quantity: 1 Piece
+
+Maximum Grinding Length: 300 mm
+Center Height: 130 mm
+Table Stroke: 300 mm
+Maximum Grinding Diameter: 200 mm
+Table Drive: Hydraulic
+
+Description:
+Suitable for external OD grinding with hydraulic operated table for smooth movement and precision accuracy.
+
+---
+
+12. HYDRAULIC CENTERLESS GRINDING MACHINE
+
+Price: ₹7,25,000 per Piece
+Minimum Order Quantity: 1 Piece
+
+Grinding Capacity Diameter: 1 – 100 mm
+Grinding Wheel Size: 350 x 100 x 127 mm
+Wheel Speed: 1350 – 1500 RPM
+Regulating Wheel Size: 230 x 100 x 76.2 mm
+Regulating Wheel Speed: 20 / 40 / 100 RPM
+Wheel Motor Power: 10 HP
+Regulating Motor Power: 1.5 HP
+Power Supply: 415V, 50Hz
+
+Description:
+Hydraulic feed type centerless grinder suitable for high production grinding operations.
+
+---
+
+13. CNC CYLINDRICAL GRINDING MACHINE
+
+Price: ₹28,00,000 per Piece
+Minimum Order Quantity: 1 Piece
+
+Between Centers: 600 mm
+Grinding Wheel Size: 600 x 100 x 254 mm
+Angular Head for OD & Face Grinding
+High Precision P4 Grade Ball Screws
+
+Description:
+Heavy duty CNC machine suitable for OD and face grinding in single setup with high repeatability.
+
+---
+
+14. HYDRAULIC CYLINDRICAL GRINDING MACHINE
+
+Price: ₹8,76,000 per Piece
+Minimum Order Quantity: 1 Piece
+
+Suitable for grinding shafts, gears, pins and mould components.
+Turcite-B slideway coating for smooth motion.
+Automatic lubrication system.
+
+Description:
+Rigid and precise hydraulic grinding machine for accurate OD grinding applications.
+
+---
+
+15. INTERNAL GRINDING MACHINE
+
+Price: ₹5,50,000 per Piece
+
+Grinding Range: 5 mm to 500 mm ID
+Maximum ID Length: 800 mm
+
+Description:
+Heavy duty high precision machine for internal bore grinding of various components.
+
+---
+
+16. CYLINDRICAL GRINDING MACHINE JOB WORK
+
+Price: ₹500 per Square Inch
+Minimum Order Quantity: 1 Square Inch
+
+Available Grinding Length: 300 mm and 1000 mm
+
+Description:
+Hydraulic cylindrical grinding job work facility with high accuracy and surface finish.
+
+---
+
+17. INTERNAL CYLINDRICAL GRINDING MACHINE
+
+Price: ₹6,98,000 per Piece
+Minimum Order Quantity: 1 Piece
+
+Spindle Diameter: 60 mm x 250 mm
+Spindle Speed: 18000 RPM
+Grinding Range: 20 mm – 120 mm Bore
+Motor Power: 1 HP
+
+Description:
+High speed internal attachment with P4 grade matched bearings and dynamic balanced pulley.
+
+---
+
+18. ID GRINDING MACHINE
+
+Price: ₹7,75,000 per Piece
+Minimum Order Quantity: 1 Piece
+
+Spindle Speed: 18000 RPM
+Grinding Bore Range: 20 mm – 120 mm
+
+Description:
+High precision ID grinding machine with safety guard and ground quills for different bore sizes.
+
+---
+
+19. CUTTER OD GRINDING MACHINE
+
+Price: ₹18,00,000 per Piece
+Minimum Order Quantity: 1 Piece
+
+Grinding Wheel Diameter: 400 mm
+Maximum Grinding Length: 1000 mm
+Material: Steel (D2)
+
+Description:
+High precision OD grinding machine for slitting cutters, rubber strippers and industrial cutters.
+
+---
+
+20. ANGLE WHEEL DRESSER
+
+Price: ₹28,000 per Piece
+Minimum Order Quantity: 1 Piece
+
+Wheel Diameter Capacity: 400 mm
+
+Description:
+Angle wheel dresser for accurate angle dressing of grinding wheels.
+
+---
+
+21. HYDRAULIC INTERNAL GRINDING MACHINE
+
+Price: ₹7,25,000 per Piece
+Minimum Order Quantity: 1 Piece
+
+Center Height: 150 mm
+ID Grinding Range: 20 mm – 200 mm
+Maximum ID Length: 200 mm
+Machine Accuracy: 0.005 mm
+
+Description:
+Hydraulic internal bore grinding machine suitable for batch production and tool room applications.
+
+---
+
+22. CYLINDRICAL GRINDING MACHINE
+
+Price: ₹8,25,000 per Piece
+Minimum Order Quantity: 1 Piece
+
+Description:
+Heavy duty cylindrical grinding machine suitable for precision OD grinding.
+
+---
+
+23. COT GRINDING MACHINE
+
+Price: ₹4,25,000 per Piece
+Power: 4.5 HP
+Phase: Three Phase
+
+Description:
+Designed for textile cots grinding to maintain precise dimensions and surface texture.
+
+---
+
+24. SCRUBBER ROLL GRINDING MACHINE
+
+Price: ₹5,35,000 per Piece
+Phase: 3
+
+Description:
+Heavy duty high precision machine for scrubber roll OD polishing and grinding.
+
+---
+
+25. AUTO CUT GRINDING MACHINE
+
+Price: ₹7,25,000 per Number
+Minimum Order Quantity: 1
+
+Grinding Length Range: 300 mm – 2000 mm
+Max Diameter: 600 mm
+
+Description:
+Suitable for tool room and production grinding with mirror finish accuracy.
+
+---
+
+26. COT AND APRON GRINDING MACHINE
+
+Price: ₹6,25,000 per Piece
+Power: 3 HP
+
+Grinding Length: 300 mm – 2000 mm
+Dust Collector Available
+
+Description:
+Machine for cots and apron grinding with waste rubber collection system.
+
+---
+
+27. CARBIDE ROD GRINDING MACHINE
+
+Price: ₹5,80,000 per Piece
+
+Grindable Diameter: 80 mm
+Grindable Length: 300 mm
+Total Power: 3.16 kW
+Machine Weight: 950 Kg
+
+Description:
+High precision carbide rod grinding machine with smooth and vibration free operation.
+
+---
+
+28. ROLL GRINDER MACHINE
+
+Price: ₹18,00,000 per Piece
+Minimum Order Quantity: 1
+
+Maximum Grinding Length: 2000 mm
+Maximum OD: 600 mm
+
+Description:
+Heavy duty hydraulic roll grinding machine for steel, paper, printing and plastic industries.
+
+---
+
+29. RUBBER ROLL GRINDER
+
+Price: ₹12,45,000 per Piece
+Minimum Order Quantity: 1
+
+Roll Length: 300 mm – 2000 mm
+Max OD: 800 mm
+Load Capacity: 800 Kg
+
+Description:
+High precision rubber roller grinding machine for printing rollers.
+
+---
+
+30. HYDRAULIC ROLL GRINDING MACHINE
+
+Price: ₹11,25,000 per Piece
+Minimum Order Quantity: 1
+
+Grinding Length: 2000 mm
+Max Diameter: 600 mm
+
+Description:
+Hydraulic roll grinder suitable for printing and steel industry applications.
+
+---
+
+31. ROLL GRINDERS
+
+Price: ₹24,00,000 per Piece
+Minimum Order Quantity: 1
+
+Max Roll Diameter: 500 mm
+Max Roll Length: 2000 mm
+Spindle Power: 15 – 30 kW
+Wheel Type: CBN
+
+Description:
+Heavy duty roll grinding machine suitable for steel mill rolls.
+
+---
+
+32. FAN SHAFT GRINDING MACHINE
+
+Price: ₹4,90,000 per Piece
+
+Between Centers: 300 mm
+Center Height: 150 mm
+Max Grinding Diameter: 250 mm
+
+Description:
+Crankshaft type grinding machine designed for precise fan shaft grinding with excellent surface finish.
+
+---
+
+33. HEAVY DUTY ROLL GRINDERS
+
+Price: ₹22,00,000 per Piece
+Minimum Order Quantity: 1
+
+Maximum Grinding Length: 2000 mm
+Maximum Grinding Diameter: 600 mm
+Grinding Wheel Size: 500 x 50 x 254 mm
+
+Description:
+Rigid heavy duty roll grinder with graded CI casting construction for industrial applications.
+
+---

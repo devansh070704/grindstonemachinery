@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Core Pages -->
+  <url>
+    <loc>https://grindstonemachinery.in/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://grindstonemachinery.in/products</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://grindstonemachinery.in/services</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://grindstonemachinery.in/about</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://grindstonemachinery.in/contact</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Full Product Catalog (51 Items) -->
+  <url><loc>https://grindstonemachinery.in/products/manual-cylindrical-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/carbide-rod-cylindrical-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/stator-core-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/universal-cylindrical-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/hydraulic-universal-cylindrical-grinders</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/od-id-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/centerless-grinding-machines</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/cnc-cylindrical-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/manual-cylindrical-grinding-machine-alt-price</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/external-cylindrical-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/hydraulic-centerless-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/cnc-cylindrical-grinding-machines</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/hydraulic-cylindrical-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/internal-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/cylindrical-grinding-machine-job-work</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/internal-cylindrical-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/id-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/cutter-od-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/angle-wheel-dresser</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/hydraulic-internal-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/cylindrical-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/cot-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/scrubber-machine-roll-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/auto-cut-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/cot-and-apron-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/carbide-rod-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/roll-grinder-machine</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/rubber-roll-grinder</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/hydraulic-roll-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/roll-grinders</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/fan-shaft-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/magnetic-coolant-separator</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/industrial-magnetic-coolant-separator</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/coolant-filter-paper-roll</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/magnetic-separators-for-coolant-purposes</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/magnetic-coolant-separator-150lpm</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/coolant-filtration-systems</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/wheel-dresser-radius-angle</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/wheel-angel-radius-dressing-device</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/cylindrical-grinding-services</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/cnc-wire-cutting-machine-job-work-service</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/polishing-machine</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/shaft-polishing-machine</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/wheel-balancing-stand</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/internal-grinding-spindles-quills-arbor</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/machine-painting-service</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/industrial-machine-painting-service</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/machine-spray-painting-services</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/external-grinding-machine-spindle</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/internal-grinding-spindles</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/angle-wheel-dresser</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://grindstonemachinery.in/products/bush-grinding-machine</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+</urlset>
